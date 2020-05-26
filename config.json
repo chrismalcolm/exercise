@@ -1,0 +1,35 @@
+{
+    "exercise_time": 40,
+    "cooldown_time": 20,
+    "count": 15,
+    "exercises": {
+        "Cardio": [
+            "Jog",
+            "Jog switch (b/f)",
+            "Jog switch (u/p)",
+            "Shadow boxing",
+            "Sprint"
+        ],
+        "Active": [
+            "Joey jumps",
+            "Star jumps",
+            "Frog jumps",
+            "Burpies"
+        ],
+        "Core (other)": [
+            "Russian twist",
+            "Crunch/ Sit ups",
+            "Bicycle kicks",
+            "Leg raises",
+            "Plank",
+            "Mountain climbers"
+        ],
+        "Legs": [
+            "Squats",
+            "Lunges",
+            "Squats (with weight)",
+            "Lunges (with weight)",
+            "Side lunges"
+        ]
+    }
+}
