@@ -4,7 +4,7 @@
 
 I was bored during lockdown, so I created this app so that I could workout at home, as I couldn't go to the gym 🙃
 
-This app will pick exercises from a random sample in preset config, and run the exercise program along with time allocated for each exercise and cooldown time.
+This app will pick exercises from a random sample in preset config, and run the exercise program along with time allocated for each exercise, cooldown time and brilliant voice acting provided by yours truly...
 
 Specify the exercises and exercise options in the `config.json` file. See the example below:
 
